@@ -1,25 +1,25 @@
 # WooСommerce Bacchus Gold Loyalty Program Plugin
 Live url: https://www.bacchus.de/ 
 
-## Idea
+### Idea
 WooCommerce giveaway made easy. Best way to offer freebies, gifts or prizes.
 
 My client owns an online and offline shops. He has a loyalty system used offline that works as follows: a customer can pay 19€ and then receives a coupon worth 10% of the order that can be cashed in for an additional product on the same order. For example, a customer has a cart worth 90€. If he is a member of the loyalty club, he will get a coupon for 10% of the order (9€), which can be used to buy an additional product in the shop. The customer can only select wines up 9€ in value. If he selects a wine that is 8€, then he forfeits the 1€ that remains.
 So, the goal was to develop a plugin which will allow implement a loyalty system in the online shop.
 
-## Overview
+### Overview
 Gift giving is one of the best ways for marketing. This way creates good vibes and your customers will come back more often.
 
 Bacchus Gold Loyalty Program Plugin is a WordPress WooCommerce plugin that makes gift management easy for your woocommerce site. The plugin helps you offer free products or gifts to your customer when they purchase products at your store. Woocommerce Bacchus Gold Member plugin - gives you an edge by allowing you to write your own gift conditions which gives you great control on how you want to provide gifts to your customer.
 
 Woocommerce Bacchus Gold Member Plugin enables the option to provide gifts to your customer. Gift Giving is one of the best ways for marketing. This way creates good vibes and your Customers will come back more often. With Woocommerce Bacchus Gold Member Plugin you can provide gifts to your customer based on single or multiple products.
 
-## Installation
+### Installation
 1. Unzip and upload the `woocommerce-bacchus-gold-member` directory to the plugin directory (`/wp-content/plugins/`) or install it from `Plugins->Add New->Upload`.
 2. Activate the plugin through the `Plugins` menu in WordPress.
 3. That's all you need to do. You will notice Woo Free Gift settings page in the admin.
 
-## Technologies:
+### Technologies:
 * WordPress
 * WooCommerce
 * PHP
@@ -32,7 +32,7 @@ Woocommerce Bacchus Gold Member Plugin enables the option to provide gifts to yo
 * Stable tag: 1.1.4
 * License: GPLv2 or later
 
-## Code example
+### Code example
 **Template:**
 ```php
 <?php
