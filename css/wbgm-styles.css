@@ -1,0 +1,15 @@
+.wbgm-gift-item {
+    height: auto;
+}
+#mobile-header>.col-sm-6.tb-left {
+    top: -20px;
+    position: relative;
+}
+
+.woocommerce-info {
+    display: block!important;
+}
+
+#wbgm-debug-field {
+    display: none;
+}

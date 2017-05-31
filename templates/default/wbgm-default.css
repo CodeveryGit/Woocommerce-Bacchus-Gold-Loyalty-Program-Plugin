@@ -1,0 +1,128 @@
+#top-bar.wbgm-gold {
+	border-top: 5px solid rgba(235, 181, 102, 1)!important;
+}
+
+.wbgm-btn {
+    font-family: "Open Sans";
+    font-weight: 600;
+    padding: 15px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#wbgm-info-top {
+    font-family: "Open Sans";
+    font-weight: 600;
+}
+
+.wbgm-info-sign {
+    color: rgba(235, 181, 102, 1);
+}
+
+#wbgm-logo {
+    width: 82px;
+    height: 88px;
+    display: inline-block;
+
+}
+
+.wbgm-gift-item {
+    display: none;
+}
+
+.wbgm-info-top {
+    font-family: "Open Sans",Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.wbgm-gold-member-add-to-cart {
+    width: 100%;
+    background-color: #ebb566;
+    color: #fefaf5;
+    font-weight: 600;
+    font-family: "Open Sans";
+}
+
+.wbgm-add-to-cart-bonus-form {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 25px;
+
+}
+
+
+@media screen  and (min-width: 1261px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 1260px) and (min-width: 960px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+    .wbgm-add-to-cart-bonus-form {
+        width: 100%;
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 767px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 640px) and (min-width: 480px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .wbgm-add-to-cart-bonus-form {
+        width: 100%;
+        display: block;
+    }
+}
+@media screen  and (max-width: 1024px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: block;
+    }
+}
+@media screen  and (min-width: 1025px) {
+    .wbgm-add-to-cart-bonus-form {
+        display: none;
+    }
+}
+
+.wbgm-top-balance.wbgm-top-balance {
+    background: rgba(235, 181, 102, 1);
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1);
+    padding: 5px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+.wbgm-custom-notices {
+    margin-top: 40px!important;
+    margin-bottom: 0px!important;
+    display: block;
+}
+
+.wbgm-custom-notices-add.wbgm-shop,
+.wbgm-custom-notices-remove.wbgm-shop {
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+    display: block;
+}
+
+.woocommerce-shop-page .container div.woo-aux-options-wrap div.woo-aux-options.clearfix {
+    margin-bottom: 0px;
+}
